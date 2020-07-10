@@ -199,11 +199,27 @@
             }
         },
         {
+            "Key": "d09e2bfa-a59f-4525-90e9-926aa25b8d17",
+            "Value": {
+                "id": "64878dae-030b-4ad7-834e-b5adc8b63774",
+                "resourcePath": "scripts\\MACROS\\MACROS.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d172b9cb-0b0a-4569-ad5b-dfe54e59a755",
             "Value": {
                 "id": "0116e2a7-2f63-4335-9e40-172e5013f52a",
                 "resourcePath": "objects\\o_player\\o_player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dfcaf520-58ba-43bb-b922-8f85de96ea41",
+            "Value": {
+                "id": "3f237ec7-bf8e-40ca-b7ee-961b7f90ca5a",
+                "resourcePath": "sprites\\s_player_run\\s_player_run.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -237,10 +253,19 @@
                 "resourcePath": "views\\fd3dfc24-9231-4e97-8e1b-eaf6eba77608.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "ff11422f-0b4d-404f-bf61-f02771757b6c",
+            "Value": {
+                "id": "15160db3-6855-439d-832c-bb934755d79d",
+                "resourcePath": "scripts\\PlayerAnimateSprite\\PlayerAnimateSprite.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
-        
+        "d09e2bfa-a59f-4525-90e9-926aa25b8d17",
+        "ff11422f-0b4d-404f-bf61-f02771757b6c"
     ],
     "tutorial": ""
 }
