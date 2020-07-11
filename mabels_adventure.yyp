@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "8c409164-4738-4a64-9fa7-096120e76bdc",
+            "Value": {
+                "id": "d68dc3dc-e187-41d1-b5a4-6ec31572be54",
+                "resourcePath": "sprites\\s_col\\s_col.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "81b52dd3-46a5-4fb1-a841-031116d1f5f1",
@@ -231,6 +239,14 @@
             }
         },
         {
+            "Key": "eda601ca-fa6a-420d-bfa6-43934ce802b9",
+            "Value": {
+                "id": "ffc46448-8d9d-4367-a765-ee9ff789fe8f",
+                "resourcePath": "tilesets\\t_col\\t_col.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "ee6fc35f-2155-4d6c-ab07-0994ac8a4c2e",
             "Value": {
                 "id": "1f4c21e4-118d-4903-bedc-52f95cef42f2",
@@ -244,6 +260,14 @@
                 "id": "eda25873-586b-49da-aee7-4269107c87d1",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4b975b3-f788-4dc6-8cb3-d6c8847fe5a4",
+            "Value": {
+                "id": "2349b8ff-14c7-473d-a67c-eb1105938d69",
+                "resourcePath": "scripts\\PlayerCollision\\PlayerCollision.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -265,7 +289,8 @@
     ],
     "script_order": [
         "d09e2bfa-a59f-4525-90e9-926aa25b8d17",
-        "ff11422f-0b4d-404f-bf61-f02771757b6c"
+        "ff11422f-0b4d-404f-bf61-f02771757b6c",
+        "f4b975b3-f788-4dc6-8cb3-d6c8847fe5a4"
     ],
     "tutorial": ""
 }
