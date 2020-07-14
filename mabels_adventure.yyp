@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "1b08b7f3-0200-43ec-8572-0e83b2086768",
+            "Value": {
+                "id": "ae22c253-f0ab-4d52-83d8-7bc831bd2cf4",
+                "resourcePath": "scripts\\PlayerStateRoll\\PlayerStateRoll.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "26575a85-8281-41c7-9e96-689dff85dbcd",
+            "Value": {
+                "id": "7a9a014a-eedc-4041-90c8-605179f1b980",
+                "resourcePath": "sprites\\s_player_roll\\s_player_roll.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "28357300-f9a3-42e5-9178-67b045124629",
             "Value": {
                 "id": "02ec5765-8555-4688-913c-bacc169b2986",
@@ -167,6 +183,14 @@
             }
         },
         {
+            "Key": "a787f727-62dc-4f0f-b252-e4c5ebea4295",
+            "Value": {
+                "id": "cb5f0336-7c33-4766-b064-bdf4c46bdfc7",
+                "resourcePath": "scripts\\PlayerStateFree\\PlayerStateFree.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "4ca3d78e-b19f-41ea-b079-1aebd9eeb865",
@@ -290,7 +314,9 @@
     "script_order": [
         "d09e2bfa-a59f-4525-90e9-926aa25b8d17",
         "ff11422f-0b4d-404f-bf61-f02771757b6c",
-        "f4b975b3-f788-4dc6-8cb3-d6c8847fe5a4"
+        "f4b975b3-f788-4dc6-8cb3-d6c8847fe5a4",
+        "a787f727-62dc-4f0f-b252-e4c5ebea4295",
+        "1b08b7f3-0200-43ec-8572-0e83b2086768"
     ],
     "tutorial": ""
 }
